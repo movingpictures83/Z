@@ -1,0 +1,2 @@
+Prefix plugins/Z/example
+Plugin Z inputfile parameters.txt outputfile output.transformed.csv
